@@ -1,0 +1,46 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.title-text{
+	color: #000;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;;
+	font-weight: 400;
+}
+.custom-jumbotron{
+	width: 100%;
+	border-radius: 0px !important;
+}
+.header-icons{
+	height: 200px;
+	width: 200px;
+	margin: auto;
+	transition: all .1s;
+}
+.header-icons:hover{
+	transform: scale(1.1);
+}
+.header-cols{
+	text-align: center;
+}
+.headers{
+	text-align: center;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.header-text{
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+}
+.logout-btn{
+	margin-top: 15px;
+}
+footer{
+	margin-top: 100px;
+	background-color: #000;
+	color: #fff;
+	padding: 20px 50px 50px 50px;
+}
+.form-container{
+	margin: 0 25%;
+}
